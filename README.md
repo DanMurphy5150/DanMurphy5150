@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DanMurphy5150
 - 👀 I’m interested in All things coding and programming
-- 🌱 I’m currently learning AWS, Terraform, Docker, Jenkin, Angular, Java, AND QA TESTING practices
+- 🌱 I’m currently Angular and Ionic
 - 💞️ I’m looking to collaborate on Front End and Backend Application development
 - 📫 How to reach me Murphy.d1113@gmail.com
 
